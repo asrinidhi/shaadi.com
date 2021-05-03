@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Shaadi</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="declined_request"> Declined your request.</string>
+    <string name="accepted_request"> Accepted your request!</string>
+    <string name="requests">Requests</string>
 </resources>
